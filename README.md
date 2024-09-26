@@ -26,4 +26,4 @@
 
 encoding thoughts, decoding decisions
 ```
-<img src=https://media1.tenor.com/m/Dj_vDyDOcwAAAAAd/helyz.gif alt="=you are cool B)" width="300" height="300"> </img>
+<img src=https://media1.tenor.com/m/Dj_vDyDOcwAAAAAd/helyz.gif alt="=you are cool B)" width="1000" height="300"> </img>
