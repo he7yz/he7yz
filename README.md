@@ -14,4 +14,5 @@
 ├─▣ screens are my only light source
 │
 └────────────────────────────────────────────────────────────────────────▰▰▰
-```
+
+encoding thoughts, decoding decisions
