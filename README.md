@@ -15,4 +15,13 @@
 │
 └────────────────────────────────────────────────────────────────────────▰▰▰
 
+┌──┤ OS ├────────────▰▰▰
+│
+├─◈ Windows 10 - PC 2 
+├─◈ Linux Mint - PC 1 [CEASED]
+├─◈ Kali Linux - SONY VAIO S SERIES [CEASED] / PERSISTENCE
+├─◈ Arch Linux - VAIO S11
+│
+└────────────────────────────────────────────────────────────────────────▰▰▰
+
 encoding thoughts, decoding decisions
