@@ -17,7 +17,7 @@
                                                                   ___________________________/___  `,
 ┌──┤ OS ├▌│█║▌║▌║─────▰▰▰                                     /  oooooooooooooooo  .o.  oooo /,   \,"-----------
 │                                                               / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
-├─◈ Windows 10 - PC 2                                         /_==__==========__==_ooo__ooo=_/'   /___________,"
+├─◈ Windows 10 - PC 2 / VAIO S11                              /_==__==========__==_ooo__ooo=_/'   /___________,"
 ├─◈ Linux Mint - PC 1 [CEASED]                                `-----------------------------'
 ├─◈ Kali Linux - SONY VAIO S SERIES [CEASED] / PERSISTENCE
 ├─◈ Arch Linux - VAIO S11
