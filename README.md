@@ -1,5 +1,6 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=he7yz.he7yz&color=00cf00)
 <a href="https://discord.gg/wU8kaRVKDC"><img src="https://img.shields.io/discord/1037005487771762729.svg?style=flat&label=Helyz'%20Dystopia&color=7289DA" alt="Join Community Badge"/></a>
+<img src="https://raw.githubusercontent.com/eust-w/eust-w/main/cat.webp" width="40" height="40"></img>
 ```
                         __         __                                       ,----------------,              ,---------,
    ________________    / /_  ___  / /_  ______      _______________    ,-----------------------,          ,"        ,"|
