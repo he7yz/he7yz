@@ -1,14 +1,15 @@
-![visitors](https://vbr.nathanchung.dev/badge?page_id=he7yz.he7yz&color=00cf00)
+<!-- deprecated# ![visitors](https://vbr.nathanchung.dev/badge?page_id=he7yz.he7yz&color=00cf00)
+<a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?labelColor=111111&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+</a>
 <a href="https://github.com/neovim/neovim">
     <img src="https://img.shields.io/badge/Editor-Neovim-57A143?labelColor=111111&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
 </a>
 <a href="#">
     <img src="https://img.shields.io/badge/Browser-Firefox-FF7139?labelColor=111111&style=for-the-badge&logo=firefox&logoColor=white" alt="Firefox">
 </a>
-<a href="https://discord.gg/wU8kaRVKDC">
-    <img src="https://img.shields.io/discord/1037005487771762729.svg?style=flat&label=Helyz'%20Dystopia&color=7289DA" alt="Join Community Badge"/>
-</a>
-<!-- <img src="https://raw.githubusercontent.com/eust-w/eust-w/main/cat.webp" width="40" height="40"></img> -->
+
+<img src="https://raw.githubusercontent.com/eust-w/eust-w/main/cat.webp" width="40" height="40"></img> -->
 ```
                         __         __                                       ,----------------,              ,---------,
    ________________    / /_  ___  / /_  ______      _______________    ,-----------------------,          ,"        ,"|
@@ -35,5 +36,6 @@
 
 encoding thoughts, decoding decisions
 ```
+
 <!-- <img src=https://media1.tenor.com/m/Dj_vDyDOcwAAAAAd/helyz.gif alt="=you are cool B)" width="1000" height="300"> </img> -->
 <!-- <img src=https://media1.tenor.com/m/jX8bXckV8mIAAAAC/helyz.gif alt="=you are cool B)" width="1000" height="250"> </img> -->
