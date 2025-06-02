@@ -36,6 +36,6 @@
 
 encoding thoughts, decoding decisions
 ```
-
+<img src="https://komarev.com/ghpvc/?username=he7yz&color=blue" alt="Eyes">
 <!-- <img src=https://media1.tenor.com/m/Dj_vDyDOcwAAAAAd/helyz.gif alt="=you are cool B)" width="1000" height="300"> </img> -->
 <!-- <img src=https://media1.tenor.com/m/jX8bXckV8mIAAAAC/helyz.gif alt="=you are cool B)" width="1000" height="250"> </img> -->
