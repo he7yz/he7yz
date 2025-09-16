@@ -36,6 +36,12 @@
 
 encoding thoughts, decoding decisions
 ```
-<img src="https://komarev.com/ghpvc/?username=he7yz&color=blue" alt="Eyes">
+<p align="center">
+  <a href="https://count.getloli.com" target="_blank">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@he7yz.github?name=he7yz.github&theme=booru-r6gdrawfriends&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+  </a>
+</p>
+
+<!-- <img src="https://komarev.com/ghpvc/?username=he7yz&color=blue" alt="Eyes"> -->
 <!-- <img src=https://media1.tenor.com/m/Dj_vDyDOcwAAAAAd/helyz.gif alt="=you are cool B)" width="1000" height="300"> </img> -->
 <!-- <img src=https://media1.tenor.com/m/jX8bXckV8mIAAAAC/helyz.gif alt="=you are cool B)" width="1000" height="250"> </img> -->
