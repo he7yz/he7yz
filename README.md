@@ -37,7 +37,7 @@
 encoding thoughts, decoding decisions
 ```
 <div align="center">
-<a href="https://discord.com/users/262273129840115713"><img src="https://lanyard.kyrie25.dev/api/262273129840115713" /></a></div>
+<a href="https://discord.com/users/262273129840115713"><img src="https://lanyard.kyrie25.dev/api/262273129840115713?animatedDecoration=true&hideNameplate=false&showDisplayName=false&theme=dark&waveColor=800080.&clanbg=800080." /></a></div>
 
 <p align="center">
   <a href="https://count.getloli.com" target="_blank">
