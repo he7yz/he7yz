@@ -36,6 +36,9 @@
 
 encoding thoughts, decoding decisions
 ```
+<div align="center">
+<a href="https://discord.com/users/262273129840115713"><img src="https://lanyard.kyrie25.dev/api/262273129840115713" /></a></div>
+
 <p align="center">
   <a href="https://count.getloli.com" target="_blank">
     <img alt="Moe Counter!" src="https://count.getloli.com/@he7yz.github?name=he7yz.github&theme=booru-r6gdrawfriends&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
