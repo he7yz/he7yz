@@ -17,24 +17,25 @@
  /____/____/____/    / / / /  __/ / /_/ / / /_    /____/____/____/  +-----------------------+  |      ,"        ,"    | 
                     /_/ /_/\___/_/\__, / /___/                      |  .-----------------.  |  |     +---------+      |
                                  /____/                             |  |                 |  |  |     | -==----'|      |
-┌──┤ WHO AM I ▌│█║▌║▌║─▰▰▰                                       |  | .//1337_♤       |  |  |     |         |      |
+┌──┤ WHO AM I ▌│█║▌│║▌║║─▰▰▰                                     |  | .//1337_♤       |  |  |     |         |      |
 │                                                                   |  | [helyz@linux ~] |  |  |/----|`---=    |      |
 ├─▣ just an internet enjoyer                                       |  | $ lyx           |  |  |   ,/|==== ooo |      ;
 ├─▣ screens are my only light source                               |  |                 |  |  |  // |(((( [33]|    ,"
 ├─▣ heavily addicted to CLIs and ASCIIs                            |  `-----------------'  |," .;'| |((((     |  ,"
 │                                                                   +-----------------------+  ;;  | |         |,"     
 └────▌│█║▌║▌║──────────║▌║║▌║▌──────║▌║───────║▌║▌║▌║▌───────▰▰▰    /_)______________(_/  //'   | +---------+
-                                                                  ___________________________/___  `,
-┌──┤ OS ├▌│█║▌║▌║─────▰▰▰                                     /  oooooooooooooooo  .o.  oooo /,   \,"-----------
-│                                                               / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
-├─◈ Windows 10 - PC 2 / VAIO S11                              /_==__==========__==_ooo__ooo=_/'   /___________,"
-├─◈ Linux Mint - PC 1 [CEASED]                                `-----------------------------'
+                                                                   ___________________________/___  `,
+┌──┤ OS ├▌│█║▌║▌║─────▰▰▰                                      /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+│                                                               / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ," 
+├─◈ Windows 11 - PC 2                                         /_==__==========__==_ooo__ooo=_/'   /___________," 
+├─◈ Windows 10 - PC 2 / VAIO S11                              `-----------------------------'
+├─◈ Linux Mint - PC 1 [CEASED]                                
 ├─◈ Kali Linux - SONY VAIO S SERIES [CEASED] / PERSISTENCE
-├─◈ Arch Linux - VAIO S11
+├─◈ Arch Linux - PC 2 / VAIO S 11 [CEASED] / VAIO S SERIES
 │
 └────│█║▌────────║▌║───────▌│█║▌║▌║║▌║───────║▌║─────────────▰▰▰
 
-encoding thoughts, decoding decisions
+..//encoding thoughts, decoding decisions </>
 ```
 <div align="center">
 <a href="https://discord.com/users/262273129840115713"><img src="https://lanyard.kyrie25.dev/api/262273129840115713?animatedDecoration=true&hideNameplate=false&showDisplayName=false&theme=dark&waveColor=800080.&clanbg=800080." /></a></div>
